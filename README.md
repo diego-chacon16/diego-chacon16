@@ -1,8 +1,11 @@
 
 # 💫About Me :
 🔭 I’m currently working on Exploratory Data Analysis & Sentiment Analysis Projects
+
 🌱 I’m currently learning Statistics & Probability, Data Science & Natural Language Processing (NLP)
+
 💬 Ask me about writing queries, SQL, Python, Problems to Solve
+
 ⚡ Fun fact:  I avoided Math from Grade 11 all the way to 2020. It was during the pandemic when I wrote my first =QUERY() function in google sheets and the rest is history. I fell in love with data.
 
 ## 🌐Socials
