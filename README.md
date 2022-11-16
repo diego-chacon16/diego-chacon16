@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on adding / finishing projects to my portfolio with a focus on:<br><br> - Exploratory Data Analysis <br> - Natural Language Processing (NLP)<br> - Forecasting and Time Series for Prediction<br> - Chatbots and Text Generating Models<br><br>🌱 I’m currently learning Statistics & Probability, Data Science & Natural Language Processing (NLP)<br><br>💬 Let's talk about: Sports, Music, Exercising, writing queries, SQL, Python, Problems to Solve<br><br>⚡ Fun fact: I am self-taught. It was during the pandemic when I wrote my first =QUERY() function in google sheets and the rest is history. I fell in love with data.
+🔭 I’m currently working on adding / finishing projects to my portfolio with a focus on:<br><br> - Exploratory Data Analysis <br> - Natural Language Processing (NLP)<br> - Forecasting and Time Series for Prediction<br> - Chatbots and Text Generating Models<br><br>🌱 I’m currently learning Statistics & Probability, Data Science & Natural Language Processing (NLP)<br><br>💬 Let's talk about: Sports, Music, Exercising, writing queries, SQL, Python, Problems to Solve<br><br>⚡ Fun fact: I am a self-taught Data Analyst. It was during the pandemic when I wrote my first =QUERY() function in google sheets and the rest is history. I fell in love with data.
 
 
 ## 🌐 Socials:
