@@ -22,7 +22,6 @@ I’m currently working on adding / finishing projects to my portfolio with a fo
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=diego-chacon16
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
