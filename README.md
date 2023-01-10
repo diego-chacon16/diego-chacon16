@@ -20,6 +20,9 @@ I’m currently working on adding / finishing projects to my portfolio with a fo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diego-chacon16&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-chacon16&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=diego-chacon16
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
